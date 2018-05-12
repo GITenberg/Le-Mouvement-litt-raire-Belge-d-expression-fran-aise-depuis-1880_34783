@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37225'
     url: http://www.gutenberg.org/2009/agents/37225
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34783#Le-Mouvement-litt-raire-Belge-d-expression-fran-aise-depuis-1880
 gutenberg_bookshelf: FR Littérature francophone
 gutenberg_issued: '2010-12-29'
 gutenberg_type: Text
